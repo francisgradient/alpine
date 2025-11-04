@@ -54,7 +54,7 @@ Alpine.plugin(sort)
 
 The primary API for using this plugin is the `x-sort` directive. By adding `x-sort` to an element, its children containing `x-sort:item` become sortable—meaning you can drag them around with your mouse, and they will change positions.
 
-> **Note:** The `x-sort` directive will only work, if the wrapped element includes and `x-data` attribute. 
+> **Note:** The `x-sort` directive will only work, if the wrapped element includes and `x-data` attribute.
 
 
 ```alpine
